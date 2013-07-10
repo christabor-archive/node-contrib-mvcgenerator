@@ -5,7 +5,8 @@ node-contrib-mvcgenerator
 
 ### Example config file:
 
-`exports.config = {
+```javascript
+exports.config = {
   // filename extensions - acceptable formats: js, hbs, html, coffee
 	extension: {
 		controllers: 'js',
@@ -30,4 +31,5 @@ node-contrib-mvcgenerator
 		models: ['dog', 'animal'],
 		views: ['dog', 'pups', 'about'],
 		controllers: ['dog', 'animal', 'pups']
-	}};`
+	}};
+```
