@@ -31,5 +31,4 @@ node-contrib-mvcgenerator
 		views: ['dog', 'pups', 'about'],
 		controllers: ['dog', 'animal', 'pups']
 	}
-};
-`
+};`
