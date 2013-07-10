@@ -33,3 +33,8 @@ exports.config = {
 		controllers: ['dog', 'animal', 'pups']
 	}};
 ```
+
+**Usage:**
+Just add your config file in the same directory, tweak to your liking, and run:
+`node generator.js`
+
