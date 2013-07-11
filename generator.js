@@ -1,7 +1,7 @@
 /*!
  * Node-contrib-mvcgenerator: Node Plugin to generate MVC structure with a simple json config file.
  * (c) 2013 Chris Tabor <dxdstudio@gmail.com>
- * Apache 2.0 Licensed.
+ * MIT Licensed.
  * <3
  * http://github.com/christabor/node-contrib-mvcgenerator
  */
