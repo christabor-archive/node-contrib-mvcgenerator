@@ -1,0 +1,25 @@
+{
+  "name": "mvc-generator",
+  "version": "1.0.0",
+  "author": "dxdstudio <dxdstudio@gmail.com>",
+  "description": "A tool to scaffold your MVC project based on a simple JSON config.",
+  "contributors": [ 
+    {
+      "name": "Chris Tabor",
+      "email": "dxdstudio@gmail.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christabor/node-contrib-mvcgenerator.git"
+  },
+  "keywords": [
+    "mvc",
+    "generator",
+    "scaffolding"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
