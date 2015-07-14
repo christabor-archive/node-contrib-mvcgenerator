@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/mvc-generator.svg)](http://badge.fury.io/js/mvc-generator)
+
 node-contrib-mvcgenerator
 =========================
 
