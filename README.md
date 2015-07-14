@@ -1,3 +1,4 @@
+[![MIT Badge](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/christabor/node-contrib-mvcgenerator/master/LICENSE)
 [![npm version](https://badge.fury.io/js/mvc-generator.svg)](http://badge.fury.io/js/mvc-generator)
 
 node-contrib-mvcgenerator
@@ -39,4 +40,3 @@ exports.config = {
 **Usage:**
 Just add your config file in the same directory, tweak to your liking, and run:
 `node generator.js`
-
