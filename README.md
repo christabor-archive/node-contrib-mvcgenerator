@@ -6,6 +6,8 @@ node-contrib-mvcgenerator
 
 ## A tool to scaffold your MVC project based on a simple JSON config.
 
+**Note: this project is unmaintained - a better alternative exists here: https://github.com/paulmillr/scaffolt**
+
 ### Example config file:
 
 ```javascript
